@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bucket</string>
+    <string name="chat_input_hint">Send Text</string>
+
+    <string name="msg_no_camera">无法打开相机</string>
+    <string name="message_long_click_hint">长摁Message！</string>
+    <string name="avatar_click_hint">摁了头像！</string>
+
+    <string name="hint_input_username">请输入账号或学号</string>
+    <string name="hint_input_password">请输入密码</string>
+    <string name="hint_input_check">请输入验证码</string>
+
+    <string name="bt_login">登陆</string>
+
+    <string name="err_service">本地服务异常</string>
+    <string name="err_net_null">发生异常\n网络框架空指针</string>
+    <string name="err_input_illegal">账号密码非法</string>
+    <string name="err_login">登陆失败</string>
+    <string name="err_disconnect">无法连接服务器</string>
+    <string name="err_network">网络异常</string>
+
+</resources>
